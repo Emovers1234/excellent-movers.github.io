@@ -1,0 +1,11 @@
+.index_contact {
+font-family:'Helvetica Neue';
+    color:#fed136;
+    font-size: 1.75em;
+}
+.index_contact_div {
+display: flex;
+align-items: center;
+}section#contact .form-group input#name.form-control{
+  color:black;
+}

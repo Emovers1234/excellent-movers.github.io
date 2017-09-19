@@ -1,0 +1,12 @@
+.index_contact {
+font-family:'Helvetica Neue';
+    color:#fed136;
+    font-size: 1.75em;
+}
+.index_contact_div {
+display: flex;
+align-items: center;
+}
+input#name::-webkit-input-placeholder, input#phone::-webkit-input-placeholder, input#email::-webkit-input-placeholder, input#rooms::-webkit-input-placeholder, input#stairs::-webkit-input-placeholder, input#elevator::-webkit-input-placeholder, input#heavy::-webkit-input-placeholder, input#calgary::-webkit-input-placeholder, input#stops::-webkit-input-placeholder, textarea#message::-webkit-input-placeholder { /* Chrome */
+  color: #8f8f8f;
+}
