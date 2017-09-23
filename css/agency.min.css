@@ -9,3 +9,6 @@ background-image:url("../img/estimate_hero.jpg")
 .index_hero {
 background-image:url("../img/hero_bg.jpg") 
 }
+.estimate_block text {
+width:60vw 
+}

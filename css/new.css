@@ -25,3 +25,9 @@ margin-right: 0.5em;
 .index_icon_phone {
 margin-right: 0.25em;
 }
+.estimate_block {
+width: 60vw;
+}
+.estimate_block {
+display: flex;
+}
